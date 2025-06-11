@@ -22,7 +22,7 @@ export default function Footer() {
       <div>
         <h3 className="text-xl font-bold mb-4 text-blue-400">Contact Us</h3>
         <p className="text-gray-400 text-sm">
-          123 Car Avenue, Auto City, State 12345<br />
+          Aya Nagara H block New Dlehi<br />
           Email: info@carsellpro.com<br />
           Phone: +1 (123) 456-7890
         </p>
